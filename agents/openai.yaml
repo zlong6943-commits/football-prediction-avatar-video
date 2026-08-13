@@ -1,0 +1,4 @@
+interface:
+  display_name: "足球预测数字人成片"
+  short_description: "从足球观点生成官网 Logo、数字人、字幕动效与音效成片"
+  default_prompt: "使用 $football-prediction-avatar-video，把我的足球预测观点制作成数字人竖屏视频。"
