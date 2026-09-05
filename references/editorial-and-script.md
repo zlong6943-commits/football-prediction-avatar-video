@@ -6,10 +6,11 @@
 - Use verified facts to support or challenge it.
 - Label tactical and lineup forecasts as judgment, possibility, or expectation.
 - If research materially contradicts the thesis, explain the evidence and let the user decide whether to keep or revise the viewpoint.
+- For a directly authorized user script, distinguish material conflicts from non-core discrepancies. Preserve a non-core disputed number or wording in the approved speech, disclose it in research notes, and omit it from optional cover/card amplification. Return to approval only when the fixture, central reasoning, or conclusion would change.
 
-## Default script shape
+## Default script shape for agent-written drafts
 
-Aim for 55–65 seconds and roughly 280–350 Chinese characters:
+When the agent writes the narration, aim for 55–65 seconds and roughly 280–350 Chinese characters:
 
 1. **Hook (0–6s):** one sharp match question or tension; no false certainty.
 2. **Context (6–16s):** identify match and why it matters.
@@ -20,6 +21,8 @@ Aim for 55–65 seconds and roughly 280–350 Chinese characters:
 7. **CTA (optional):** one short audience prompt, only when requested or already approved as a default.
 
 Write for natural Mandarin speech, not a report. Use short sentences and pronounceable player/team names. Avoid stacking figures.
+
+When the user personally supplies a complete script, preserve every spoken word and let the resulting duration follow the approved voice's natural pace. Do not shorten, polish, paraphrase, or force it into the default structure unless the user asks for a revision and approves the complete revised script.
 
 ## Prohibited writing
 
